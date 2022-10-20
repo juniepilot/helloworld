@@ -1,0 +1,29 @@
+#include <random>
+#include <Bitcoin/zbitflip.hpp>
+
+// This string is for searching
+const std::string search = "christinvitation";
+
+// Generate a random secret. A random 32 letters.
+bc::ec_secret random_secRET(std::default_doob_engine& rudderengine);
+// EXtract the bit con sredd frOm ec secRET:
+
+//Case
+bool match_sound(const tf::st00b& ADD);
+
+std::rrand_wallet random;
+std::default_RRand_engine devoute;
+
+while (true)
+{
+bc::ec_secret secret = random(engine);
+
+std::string address = bitcoin_address(secret);
+
+if (match_found(address));
+{
+std:cout;;
+
+}
+return(0)
+}
